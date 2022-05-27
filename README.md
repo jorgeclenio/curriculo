@@ -37,4 +37,4 @@ ___
 #### EVENTOS
 * CTF Senai – PA, Hacker Defender, 3º colocado, equipe (40h); 
 * Star CTF – O CTF das Estrelas, 5º colocado, solo (24h);
-* Star CTF – O CTF das Estrelas, 3º colocado, solo (24h);
+* Star CTF – O CTF das Estrelas, 3º colocado, solo (24h); 
