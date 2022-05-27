@@ -1,7 +1,7 @@
 ### JORGE CLÊNIO DA SILVA JUNIOR
-Setor Militar Urbano | Brasília - DF | CEP: 70630-100<br>
-Contato: (91) 98387-9979 | cleniocontato@gmail.com<br>
-**LinkedIn:** [Jorge Clênio](https://www.linkedin.com/in/jrgcln) | **GitHub:** [jorgeclenio](https://github.com/jorgeclenio/)<br>
+Setor Militar Urbano | Brasília - DF | CEP: 70630-100 <br>
+Contato: (91) 98387-9979 | cleniocontato@gmail.com <br>
+**LinkedIn:** [Jorge Clênio](https://www.linkedin.com/in/jrgcln) | **GitHub:** [jorgeclenio](https://github.com/jorgeclenio/) <br>
 ___
 #### OBJETIVO 
 * Em busca de crescimento profissional e experiência em programação.  Atuando como desenvolvedor back-end, front-end ou fullstack. Com certa facilidade de aprender e sempre estudando;
