@@ -1,23 +1,20 @@
-## JORGE CLÊNIO DA SILVA JUNIOR
-Setor Militar Urbano | Brasília - DF <br>
-CEP: 70630-100 <br>
-Contato: (91) 98387-9979 <br>
-**Email:** cleniocontato@gmail.com <br>
-**LinkedIn:** [Jorge Clênio](https://www.linkedin.com/in/jrgcln) <br>
-**GitHub:** [jorgeclenio](https://github.com/jorgeclenio/) <br>
+### JORGE CLÊNIO DA SILVA JUNIOR
+Setor Militar Urbano | Brasília - DF | CEP: 70630-100
+Contato: (91) 98387-9979 | cleniocontato@gmail.com
+**LinkedIn:** [Jorge Clênio](https://www.linkedin.com/in/jrgcln) | **GitHub:** [jorgeclenio](https://github.com/jorgeclenio/)
 ___
 #### OBJETIVO 
 * Em busca de crescimento profissional e experiência em programação.  Atuando como desenvolvedor back-end, front-end ou fullstack. Com certa facilidade de aprender e sempre estudando;
 
 #### FORMAÇÃO
-#### ENGENHARIA DA COMPUTAÇÃO | FACULDADE ESTÁCIO DE BELÉM
+##### ENGENHARIA DA COMPUTAÇÃO | FACULDADE ESTÁCIO DE BELÉM
 * Graduação: Bacharel em Engenharia de Computação (07/2021);
 
 #### EXPERIÊNCIA PROFISSIONAL
-#### DESENVOLVEDOR FULLSTACK JUNIOR | REDE SÃO ROQUE | 02/2022 - Atual
+##### DESENVOLVEDOR FULLSTACK JUNIOR | REDE SÃO ROQUE | 02/2022 - Atual
 * 
 
-#### ESTAGIÁRIO | BANCO DO BRASIL | 06/2016 - 06/2018
+##### ESTAGIÁRIO | BANCO DO BRASIL | 06/2016 - 06/2018
 * Formatação, instalação e configuração de sistemas operacionais, suporte técnico ao usuário, instalação e manutenção de impressoras e computadores e notebooks;
 * Desenvolvimento de planilhas para banco de dados e Digitalização e preparação de envio de documentos;
 
